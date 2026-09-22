@@ -32,9 +32,9 @@ const config: Config = {
         accent: ["var(--font-accent)", "Cormorant Garamond", "serif"],
       },
       backgroundImage: {
-        "purple-gradient": "linear-gradient(135deg, #8B2FC9 0%, #A855F7 50%, #F4D58D 100%)",
+        "purple-gradient": "linear-gradient(135deg, #8B2FC9 0%, #A855F7 50%, #6B21A8 100%)",
         "gold-gradient": "linear-gradient(135deg, #FDE68A 0%, #F4D58D 50%, #D97706 100%)",
-        "purple-gold": "linear-gradient(135deg, #8B2FC9 0%, #C084FC 40%, #F4D58D 100%)",
+        "purple-gold": "linear-gradient(135deg, #8B2FC9 0%, #C084FC 50%, #F4D58D 100%)",
         "purple-shimmer": "linear-gradient(90deg, transparent 0%, rgba(168, 85, 247, 0.25) 50%, transparent 100%)",
         "dark-radial": "radial-gradient(circle at 50% 0%, rgba(139, 47, 201, 0.18) 0%, transparent 70%)",
       },

@@ -94,9 +94,9 @@ export default function Hero() {
               href="#contact"
               variant="primary"
               size="sm"
-              className="w-full shadow-purple-glow font-semibold text-xs py-2.5 px-3 rounded-xl"
+              className="w-full text-xs py-2.5 px-3 rounded-xl"
             >
-              <Calendar className="w-3.5 h-3.5 mr-1" />
+              <Calendar className="w-3.5 h-3.5 mr-1 text-white" />
               {siteConfig.primary_cta}
             </Button>
 
@@ -127,9 +127,9 @@ export default function Hero() {
             href="#contact"
             variant="primary"
             size="md"
-            className="shadow-purple-glow font-semibold text-sm px-6 py-2.5"
+            className="text-sm px-6 py-2.5"
           >
-            <Calendar className="w-4 h-4 mr-2" />
+            <Calendar className="w-4 h-4 mr-2 text-white" />
             {siteConfig.primary_cta}
           </Button>
 

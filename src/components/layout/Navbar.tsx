@@ -111,9 +111,8 @@ export default function Navbar() {
             href="#contact"
             variant="primary"
             size="sm"
-            className="shadow-purple-glow/40"
           >
-            <CalendarHeart className="w-3.5 h-3.5 mr-1" />
+            <CalendarHeart className="w-3.5 h-3.5 mr-1 text-white" />
             Get a Quote
           </Button>
         </div>
